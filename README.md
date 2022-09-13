@@ -1,4 +1,7 @@
-![image](https://user-images.githubusercontent.com/113213475/189828057-77ea0e26-6fa9-4ba9-b2a7-5164645cb0f8.png)
+![image](https://user-images.githubusercontent.com/113213475/189828265-ecb4f940-ae2a-492b-924a-7b7370cd9374.png)
+
+
+
 Also known as expense manager and money manager, an expense tracker is a software or application that helps to keep an accurate record of your money inflow and outflow. Many people in India live on a fixed income, and they find that towards the end of the month they don’t have sufficient money to meet their needs. 
 # Getting Started with Create React App
 
